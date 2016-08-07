@@ -7,8 +7,13 @@ My objective is to implement as many data structures as I can, that work for eve
 Somethings could DEFINITELY be done better, so lets treat them as rough sketches ;)
 
 The following work (at least with (not extensive) tests i made):
+
 -> Linked List (needs cleaning)
+
 -> Queue
+
 -> Stack
+
 -> Hash Table (currently in development)
+
 -> Heap (max and min, in the works)
