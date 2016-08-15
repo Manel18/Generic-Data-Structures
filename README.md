@@ -16,8 +16,8 @@ The following work (at least with (not extensive) tests i made):
 
 -> Stack
 
-In development: 
-
 -> Hash Table
+
+In development: 
 
 -> Heap (max and min, in the works)
