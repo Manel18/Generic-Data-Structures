@@ -14,6 +14,8 @@ The following work (at least with (not extensive) tests i made):
 
 -> Stack
 
--> Hash Table (currently in development)
+In development: 
+
+-> Hash Table
 
 -> Heap (max and min, in the works)
