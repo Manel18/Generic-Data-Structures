@@ -6,6 +6,8 @@ My objective is to implement as many data structures as I can, that work for eve
 
 Somethings could DEFINITELY be done better, so lets treat them as rough sketches ;)
 
+All of them are missing error checking, im leaving that for later, sorry ;)
+
 The following work (at least with (not extensive) tests i made):
 
 -> Linked List (needs cleaning)
